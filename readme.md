@@ -3,7 +3,8 @@
 ## Description
 
 This app allows the user to search for any gif   
-It uses Giphy API to get the animated gifs   
+It uses Giphy API to get the animated gifs  
+**You need an giphy API key** 
 Interface created with React and Vite
 
 ## Features
