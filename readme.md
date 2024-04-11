@@ -17,9 +17,9 @@ Uses **React** to create a basic UI.
 #### Main page / input search
 ![](https://dessinstudio.com/portfolio-imgs/08_03.png)
 
-#### Room chat / user window   
+#### Main page search results  
 ![](https://dessinstudio.com/portfolio-imgs/08_01.png)
-#### Real time chat   
+
 ![](https://dessinstudio.com/portfolio-imgs/08_02.png)
 
 
